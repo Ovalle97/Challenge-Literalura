@@ -28,19 +28,3 @@ Esta aplicación permite buscar y gestionar información sobre libros y autores 
 
 Se utiliza la [Gutendex API](https://gutendex.com/) para realizar búsquedas de libros y obtener información detallada sobre estos y sus autores. Asegúrate de tener acceso a internet para que la funcionalidad de la API esté disponible.
 
-## Contribución 🚀
-
-Las contribuciones son bienvenidas. Para colaborar:
-
-1. Realiza un fork del repositorio.
-2. Crea una rama para tu función o corrección:
-   ```bash
-   git checkout -b nombre-de-tu-rama
-   ```
-3. Realiza los cambios y haz un commit:
-   ```bash
-   git commit -m "Descripción de los cambios"
-   ```
-4. Envía un pull request.
-
-
